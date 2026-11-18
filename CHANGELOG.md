@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.6.3-eq.1
+
+Equisolve build of 0.6.3, unsigned. Remove it once an upstream release includes the fix.
+
+### What's Changed
+
+- Long Lucene queries wrap in the query editor instead of widening the query row past the pane
+
 ## 0.6.3
 
 ### What's Changed
